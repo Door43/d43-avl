@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[avl:home|Door43 (avl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-avl|d43-avl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-avl/archive/master.zip|d43-avl.zip]]
+
+**Recent Changes**
+{{changes>ns = avl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/avl|Ethnologue data]]
+
